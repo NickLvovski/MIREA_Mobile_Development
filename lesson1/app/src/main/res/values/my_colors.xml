@@ -2,4 +2,5 @@
 <resources>
     <color name="controlBackColor">#9370DB</color>
     <color name="controlLinkColor">#00BFFF</color>
+    <color name="activityButtonColor">#F08080</color>
 </resources>
