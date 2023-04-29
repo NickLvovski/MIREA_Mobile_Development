@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 rootProject.name = "lesson1"
 include ':app'
 include ':typelayout'
-include ':buttonclicker'
